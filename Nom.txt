@@ -1,0 +1,7 @@
+/*Escribe un método sin parámetros y sin retorno que imprima en pantalla tu nombre completo.*/
+
+public class Nom {
+	public static void nombres() {
+		String nom = "Ana Lucía Caro Cobo";
+		System.out.println("Su nombre es: "+nom);
+	}

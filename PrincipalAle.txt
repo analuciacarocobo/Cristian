@@ -1,0 +1,7 @@
+public class PrincipalAle{
+	public static void main(String arg[]) {
+		Aleatorio miProceso;
+		miProceso = new Aleatorio();
+		miProceso.numAleatorio();
+	}
+}
